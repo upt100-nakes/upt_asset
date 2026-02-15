@@ -1,11 +1,12 @@
     {
-      "versionCode": 2,
-      "versionName": "1.1.0-beta",
+      "versionCode": 1,
+      "versionName": "1.0.0-beta",
       "updateNotes": "- Perbaikan bug pada alarm ganda.\n- Perbaikan fitur notifikasi update.\n- Peningkatan performa.",
       "apkUrl": "https://github.com/upt100-nakes/releaseupt/releases/download/v1.1.0-beta/UPT_V1_0_0-beta_prerealeas.apk"
     }
 
     
+
 
 
 
